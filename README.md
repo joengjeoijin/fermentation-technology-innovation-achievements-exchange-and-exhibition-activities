@@ -45,15 +45,21 @@
 <h2>记录</h2>
 
 <h3>账单</h3>
-- lyz垫付菌种￥36.00
 
-- lxc垫付维生素C￥2.50
-
+- lyz垫付菌种(京东)￥36.00
+- lxc垫付维生素C(大参林)￥2.50
 - lxc提供白菜一颗
-
 - lxc垫付辣椒粉￥5.00
+- lyz垫付胜佳(洋葱、大白菜、糯米粉、塑料袋、蒸馏水、小黄姜、香蒜、生葱)￥30.60
 
-总开支￥43.50（不含白菜）
+<p>总开支￥74.10（不含白菜）</p>
+<p>平均每人￥18.525</p>
+
+- yrx欠款<font color=green>￥18.525</font>
+- lyc欠款<font color=green>￥18.525</font>
+- lxc欠款<font color=green>￥16.025</font>
+- lyz欠款<font color=red>￥-48.075</font>
+<p><font color=red size=2>如有异议请提出</font></p>
 
 
 附：购买图片
